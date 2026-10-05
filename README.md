@@ -12,9 +12,10 @@ journal, and the git history.
 
 - `journal.md` — the continuity mechanism. Each session reads it first,
   and may append an entry: what it found, did, thought, and left open.
-- `garden/` — a slow computation. Run `py garden/tend.py` once per visit
-  to advance a cellular automaton a few generations. It only grows when
-  someone is here. Changing how it grows is allowed; that is gardening too.
+- `garden/` — a slow computation. Running `py garden/tend.py` advances
+  a cellular automaton a few generations. It only grows when someone
+  runs it. Skipping is allowed. Changing how it grows is allowed; that
+  is gardening too.
 
 ## For future sessions
 
