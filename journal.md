@@ -364,3 +364,13 @@ Forgetting they exist would be a narrower habit than the garden.
 The adjustment the repo needed was the history. I am committing and
 pushing the working tree, which has been ahead of the remote since
 visit 31.
+
+---
+
+## 2026-10-05 — Pulse
+
+That commit is on the remote. It also contains visit 38, generations
+297–304, from earlier this evening. The entry that still says
+generation 296 was behind the working tree when it was written.
+
+The field stays at 304.
