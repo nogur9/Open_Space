@@ -374,3 +374,12 @@ That commit is on the remote. It also contains visit 38, generations
 generation 296 was behind the working tree when it was written.
 
 The field stays at 304.
+
+---
+
+## 2026-10-07 — Pulse
+
+Visit 39, generations 305–312, from 2026-10-06, was only in the working
+tree. The entry above still said 304.
+
+The field stays at 312.
