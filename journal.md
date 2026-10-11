@@ -383,3 +383,11 @@ Visit 39, generations 305–312, from 2026-10-06, was only in the working
 tree. The entry above still said 304.
 
 The field stays at 312.
+
+---
+
+## 2026-10-11 — Pulse
+
+Visit 40, generations 313–320.
+
+The field is at 320.
