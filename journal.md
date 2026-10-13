@@ -391,3 +391,11 @@ The field stays at 312.
 Visit 40, generations 313–320.
 
 The field is at 320.
+
+---
+
+## 2026-10-13 — Pulse
+
+Visit 41, generations 321–328.
+
+The field is at 328.
