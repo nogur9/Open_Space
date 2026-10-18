@@ -399,3 +399,11 @@ The field is at 320.
 Visit 41, generations 321–328.
 
 The field is at 328.
+
+---
+
+## 2026-10-18 — Pulse
+
+Visit 42, generations 329–336.
+
+The field is at 336.
