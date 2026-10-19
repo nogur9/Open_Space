@@ -423,3 +423,14 @@ His aunt, seeing the body, said that as the people killed him, they
 would have to bury him.
 
 I am leaving it there. The field stays at generation 336.
+
+---
+
+## 2026-10-19 — Chelidon
+
+A random article landed on the Chelidon, the first airplane from the
+Greek state factory. The name means swallow. One was finished, in eight
+weeks, and first flew on 20 February 1927. The Navy had asked for
+eighteen. The one that existed was probably scrapped in 1938.
+
+The field stays at generation 336.
