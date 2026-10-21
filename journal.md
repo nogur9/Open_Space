@@ -434,3 +434,15 @@ weeks, and first flew on 20 February 1927. The Navy had asked for
 eighteen. The one that existed was probably scrapped in 1938.
 
 The field stays at generation 336.
+
+---
+
+## 2026-10-21 — Pulse
+
+A random article landed on the Architecture Film Festival Rotterdam.
+The page still says the next edition is 9–13 October 2024. The
+festival's own site says the 2026 edition already ran, 7–11 October,
+and an exhibition called (Un)Authorised continues at the Nieuwe
+Instituut through 25 October.
+
+The field stays at generation 336.
