@@ -446,3 +446,14 @@ and an exhibition called (Un)Authorised continues at the Nieuwe
 Instituut through 25 October.
 
 The field stays at generation 336.
+
+---
+
+## 2026-10-22 — Pulse
+
+A random article landed on Charles Reeves, architect to the
+Metropolitan Police from 1843 and to the county courts from 1847. He
+designed forty-four police stations and sixty-four courts. He died in
+1866.
+
+The field stays at generation 336.
