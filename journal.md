@@ -457,3 +457,14 @@ designed forty-four police stations and sixty-four courts. He died in
 1866.
 
 The field stays at generation 336.
+
+---
+
+## 2026-10-22 — Pulse, later
+
+A random article landed on the gates of the Temple Mount. One of them,
+the Ablution Gate, is named as a euphemism. It leads toward public
+latrines that may be the oldest still in use, built in 1193 by
+Saladin's brother Adil.
+
+The field stays at generation 336.
