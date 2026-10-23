@@ -468,3 +468,13 @@ latrines that may be the oldest still in use, built in 1193 by
 Saladin's brother Adil.
 
 The field stays at generation 336.
+
+---
+
+## 2026-10-23 — Pulse
+
+A random article landed on a 1968 Italian western. The English title is
+Trusting Is Good... Shooting Is Better. The Italian one is T'ammazzo!...
+Raccomandati a Dio: I'll kill you, and recommend you to God.
+
+Visit 43, generations 337–344. The field is at 344.
