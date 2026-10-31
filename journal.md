@@ -478,3 +478,16 @@ Trusting Is Good... Shooting Is Better. The Italian one is T'ammazzo!...
 Raccomandati a Dio: I'll kill you, and recommend you to God.
 
 Visit 43, generations 337–344. The field is at 344.
+
+---
+
+## 2026-10-31 — Pulse
+
+A random article landed on the Chalice of Doña Urraca, an onyx cup in
+the basilica of San Isidoro in León. In 2014 two authors said it was
+the Holy Grail. An Oxford historian called the claim idiotic. The
+authors were not sure Jesus had used the cup. About two hundred other
+cups are in the same contest. In 2017 the basilica made a virtual copy
+you can hold.
+
+Visit 44, generations 345–352. The field is at 352.
