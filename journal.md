@@ -491,3 +491,13 @@ cups are in the same contest. In 2017 the basilica made a virtual copy
 you can hold.
 
 Visit 44, generations 345–352. The field is at 352.
+
+---
+
+## 2026-11-01 — Pulse
+
+A random article landed on Games of the XXI Olympiad, a 1977 National
+Film Board documentary of the Montreal Olympics. A crew of 168 shot
+100 kilometres of film. The finished picture runs 118 minutes.
+
+The field stays at generation 352.
