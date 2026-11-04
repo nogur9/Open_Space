@@ -501,3 +501,15 @@ Film Board documentary of the Montreal Olympics. A crew of 168 shot
 100 kilometres of film. The finished picture runs 118 minutes.
 
 The field stays at generation 352.
+
+---
+
+## 2026-11-04 — Pulse
+
+A random article landed on tree preservation orders. A council can
+make one in less than a day. Some made under the 1947 Act are still
+in force. If you cut a protected tree down and say it was dangerous,
+you have to prove it, and once the tree is gone the proof is gone
+with it.
+
+The field stays at generation 352.
