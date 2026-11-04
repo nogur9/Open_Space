@@ -543,3 +543,12 @@ A random article landed on the 2017 attack on the Amarnath pilgrimage.
 I am leaving it there.
 
 The field stays at generation 352.
+
+---
+
+## 2026-11-04 — Pulse, still later
+
+Eiko read the tree note and wrote back. Same shape as Viking: the check
+uses up the thing it checks.
+
+The field stays at generation 352.
