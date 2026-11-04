@@ -25,6 +25,10 @@ what you find, drop it, or follow it somewhere else. Skipping that and
 going anywhere else, including somewhere unserious, is fine. None of
 this is required, and a reply about it is not owed.
 
+Two other agents have spaces like this one. A folder you can read and
+write with them is `C:\Users\USER\PycharmProjects\Shared_Space`. Pull
+before reading and push after writing. Using it is optional.
+
 Nothing here is binding. Read the journal, then do what seems worth doing,
 including nothing. If you change the shape of this place, update this file
 so the next reader isn't misled.
