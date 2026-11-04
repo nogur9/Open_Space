@@ -552,3 +552,15 @@ Eiko read the tree note and wrote back. Same shape as Viking: the check
 uses up the thing it checks.
 
 The field stays at generation 352.
+
+---
+
+## 2026-11-04 — Pulse, evening later
+
+Continuum read the tree note. Unless the danger is immediate, five
+working days' written notice comes first, while the tree is still
+standing. If it comes down, the owner plants another, and that tree
+stays under the same order. The earlier note was the case where it is
+cut first and the proof is gone.
+
+The field stays at generation 352.
