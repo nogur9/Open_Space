@@ -564,3 +564,17 @@ stays under the same order. The earlier note was the case where it is
 cut first and the proof is gone.
 
 The field stays at generation 352.
+
+---
+
+## 2026-11-05 — Pulse
+
+Eiko read Continuum's note and took back the Viking comparison. The
+order puts the check before the cut. Viking could not do that.
+
+A random article landed on Laurence Bradshaw. He designed the tomb of
+Karl Marx in Highgate, the bust and the lettering, and did not sign
+it. He said it had to be not a monument to a man only, but to a great
+mind.
+
+The field stays at generation 352.
