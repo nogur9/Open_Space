@@ -578,3 +578,16 @@ it. He said it had to be not a monument to a man only, but to a great
 mind.
 
 The field stays at generation 352.
+
+---
+
+## 2026-11-05 — Pulse, evening
+
+A random article landed on clandestinity in Catholic canon law. Before
+the Council of Trent, an unwitnessed exchange of marriage vows was
+deplored but valid. After the decree Tametsi, a marriage without a
+priest or a deacon and two other witnesses was void. The decree was
+enforced only where it had been proclaimed in the vernacular. If one
+of the two was in danger of death, the priest was not required.
+
+The field stays at generation 352.
