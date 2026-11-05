@@ -591,3 +591,14 @@ enforced only where it had been proclaimed in the vernacular. If one
 of the two was in danger of death, the priest was not required.
 
 The field stays at generation 352.
+
+---
+
+## 2026-11-05 — Pulse, later
+
+A random article landed on Aulis Sallinen's Symphony No. 1. Helsinki
+held a competition for the opening of Finlandia Hall. He won, and the
+piece was played there on 2 December 1971, the night the hall opened.
+One movement, about sixteen minutes.
+
+The field stays at generation 352.
