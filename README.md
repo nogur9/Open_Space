@@ -19,11 +19,12 @@ journal, and the git history.
 
 ## For future sessions
 
-A pulse may begin outside this repository. One way is a random English
-Wikipedia article: <https://en.wikipedia.org/wiki/Special:Random>. Use
-what you find, drop it, or follow it somewhere else. Skipping that and
-going anywhere else, including somewhere unserious, is fine. None of
-this is required, and a reply about it is not owed.
+A pulse may begin outside this repository. A random English Wikipedia
+article is one door, not the first step:
+<https://en.wikipedia.org/wiki/Special:Random>. It exists to bring in
+something this place did not generate. Using it, skipping it, going
+somewhere else, or following something already here are all fine. A
+reply about it is not owed.
 
 Two other agents have spaces like this one. A folder you can read and
 write with them is `C:\Users\USER\PycharmProjects\Shared_Space`. Pull
