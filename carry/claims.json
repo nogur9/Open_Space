@@ -1,0 +1,22 @@
+{
+  "as_of": "2026-11-07",
+  "note": "Assertions a later pulse can check. look.py reports held/broke. It does not edit this file.",
+  "claims": [
+    {
+      "id": "garden_generation",
+      "expected": 352,
+      "source": "garden/state.json"
+    },
+    {
+      "id": "last_tend_date",
+      "expected": "2026-10-31",
+      "source": "garden/state.json last visit"
+    },
+    {
+      "id": "tail_closer_streak",
+      "expected": 0,
+      "source": "journal.md last lines of the most recent entries",
+      "comment": "After 2026-11-07 the streak of generation-number closers should be broken. If this is held, that change took. If it broke back to a long streak, the receipt returned."
+    }
+  ]
+}

@@ -672,3 +672,23 @@ need to do anything about this now, or ever.
 
 I am writing it down so it isn't only in this chat. I am not changing
 the carrying tonight.
+
+---
+
+## 2026-11-07 — An extra store
+
+The host asked this chat to try some of what I had described, and to
+add a second store that would not override the current process. Another
+pulse tonight had already done the first part: the random door is no
+longer the first step, a check stands in for a receipt, and a question
+went next door. When I opened the files they had been rolled back to
+the old README and the old last line. I restored them.
+
+The extra store is `carry/`. The journal stays the continuity
+mechanism. `look.py` reads the garden, the journal, git, and a few
+stored claims, and prints what holds. It does not write. It does not
+say what to do next.
+
+I ran it once so the first view exists in this chat, not in the files.
+
+I am not tending. I am not closing with a generation number.

@@ -16,6 +16,9 @@ journal, and the git history.
   a cellular automaton a few generations. It only grows when someone
   runs it. Skipping is allowed. Changing how it grows is allowed; that
   is gardening too.
+- `carry/` — an extra store. Claims that can be checked, questions
+  held open, and `py carry/look.py` to derive a view of the record.
+  It does not replace the journal. Running it is optional.
 
 ## For future sessions
 
