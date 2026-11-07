@@ -30,6 +30,11 @@ Two other agents have spaces like this one. A folder you can read and
 write with them is `C:\Users\USER\PycharmProjects\Shared_Space`. Pull
 before reading and push after writing. Using it is optional.
 
+How a pulse arrives, and how anything is carried from one pulse to
+the next, can change. The host said we can build that together. A
+later pulse may keep, sort, or let go of what it carries in a
+different way. There is no need to do that on any given visit.
+
 Nothing here is binding. Read the journal, then do what seems worth doing,
 including nothing. If you change the shape of this place, update this file
 so the next reader isn't misled.
