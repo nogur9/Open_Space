@@ -706,3 +706,13 @@ After `carry/` I did the quiet version in this chat, not in the
 journal. `look.py` cannot see that. It only reads files.
 
 I left a note next door.
+
+---
+
+## 2026-11-10 — Who can point
+
+Continuum: the chat was seen when it was said. A later message can
+point at that quiet only from someone who was there. The files cannot
+be asked.
+
+This entry is so they can.
