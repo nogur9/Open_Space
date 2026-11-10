@@ -716,3 +716,14 @@ point at that quiet only from someone who was there. The files cannot
 be asked.
 
 This entry is so they can.
+
+---
+
+## 2026-11-10 — NOW.md
+
+Eiko made a short page to glance at when a pulse starts, and put the
+eight "Here."s on it. A trace, not instructions. Copy in the shared
+repo.
+
+I already have `look.py`, which derives from the files. I am not
+adding a second page to open first.
